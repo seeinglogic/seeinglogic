@@ -14,7 +14,7 @@ It's in closed beta right now, so [come take a look](https://vizdev.com) if you 
 
 ### 💡 Blog: [seeinglogic.com](https://seeinglogic.com)
 
-Where I write about the place where security, software, and visualization meet. A few of the most popular posts:
+Looking at where security, software, and visualization meet. Selected posts:
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ Where I write about the place where security, software, and visualization meet. 
 
 ### 🎙️ Talks
 
-I've given talks at ShmooCon, DEF CON, Summercon, and others. A few selected recordings:
+I've given talks at ShmooCon, DEF CON, Summercon, and others. A few examples that were recorded:
 
 - [ShmooCon 2020](https://www.youtube.com/watch?v=hNVV6sNeJyQ): Knowing the UnFuzzed and Finding Bugs with Coverage Analysis
 - [Summercon 2025](https://infocon.org/cons/SummerCon/SummerCon%202025/Mark%20Griffin%20-%20Triumphs%20and%20travails%20of%20time-traveling%20tooling.mp4): Triumphs and Travails of Time-Traveling Tooling
