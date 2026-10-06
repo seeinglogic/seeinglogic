@@ -14,7 +14,7 @@ It's in closed beta right now, so [come take a look](https://vizdev.com) if you 
 
 ### 💡 Blog: [seeinglogic.com](https://seeinglogic.com)
 
-Looking at where security, software, and visualization meet. Selected posts:
+Looking at where development, security, and visualization meet. Selected posts:
 
 <table>
 <tr>
